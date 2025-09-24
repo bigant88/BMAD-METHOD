@@ -70,6 +70,7 @@ scripts/private/**
 
 - Binary handling
   - Binary files are detected and excluded from the XML content. They are counted in the final summary but not embedded in the output.
+  - 
 - XML format and safety
   - UTF-8 encoded file with root element `<files>`.
   - Each text file is emitted as a `<file path="relative/path">` element whose content is wrapped in `<![CDATA[ ... ]]>`.
