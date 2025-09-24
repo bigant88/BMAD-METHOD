@@ -84,8 +84,8 @@ Templates follow the [BMad Document Template](../common/utils/bmad-doc-template.
 6. **Clean Output**: YAML structure ensures all processing logic stays separate from generated content
 
 ## Remember
-
+- Expansion packs handle specialized domains
 - The power is in natural language orchestration and human agent collaboration, not code
 - Dev agents code, planning agents plan
 - Keep dev agents lean for maximum coding efficiency
-- Expansion packs handle specialized domains
+
