@@ -148,7 +148,7 @@ See our [Fork CI/CD Guide](.github/FORK_GUIDE.md) for instructions on enabling w
 6. **Push to your fork** - `git push origin feature/amazing-feature`
 7. **Open a Pull Request** - CI/CD will run automatically on the PR
 
-Your contributions are tested when you submit a PR - no need to enable CI in your fork!
+Your contributions are tested when you submit a PR 
 
 ## License
 
